@@ -1,0 +1,1 @@
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FVixiaID%2Fmur&plugins=redis&envs=ENV_DOMAIN%2CENV_TTL%2CPORT&ENV_DOMAINDesc=Your+domain.&ENV_TTLDesc=Short+link+validity+period+%28day%29&PORTDesc=DO+NOT+CHANGE&ENV_TTLDefault=180&PORTDefault=80)
